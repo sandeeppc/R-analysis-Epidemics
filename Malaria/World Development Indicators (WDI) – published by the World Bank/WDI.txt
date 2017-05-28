@@ -1,0 +1,5 @@
+World Development Indicators (WDI) – published by the World Bank
+
+Data: Children with fever receiving antimalarial drugs (% of children under age 5 with fever), use of insecticide-treated bed nets (% of under-5 population)
+Geographical coverage: Global – by country & world region
+Time span: Annual data – since 2000.

@@ -1,0 +1,5 @@
+World Health Organization (WHO)
+
+Data: Data on cases, deaths (reported and estimates) and prevention and treatment
+Geographical coverage: Global – by country and WHO region
+Time span: Since 2000 (for reported deaths); shorter for other measures.
